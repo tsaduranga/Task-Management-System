@@ -1,0 +1,26 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.login_field{
+    margin-top: 30px;
+    width: 400px;
+    margin: 50px;
+}
+
+.task_create_form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  padding: 50px;
+
+}
+
+.task_field {
+  margin: 50px;
+}
